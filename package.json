@@ -1,0 +1,19 @@
+{
+  "name": "javascritp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dogstudio/highway": "^2.2.1",
+    "gsap": "^3.5.0",
+    "yarn": "^1.22.4"
+  },
+  "devDependencies": {
+    "sass": "^1.26.10"
+  }
+}

@@ -1,0 +1,4 @@
+#dependencias
+/node_modules
+/dist
+/cache
