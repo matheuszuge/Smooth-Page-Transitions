@@ -20,7 +20,4 @@ Este é um repositório que contém um exemplo de transições suaves entre pág
 - `style.css`: O arquivo CSS responsável pelo estilo das páginas.
 - `transition.js`: O arquivo JavaScript que define a transição de página suave entre as páginas.
 - `images/`: Diretório contendo imagens utilizadas nas páginas.
-  
-## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
